@@ -12,6 +12,9 @@
   text-align: center;
   color: #2c3e50;
 }
+.van-nav-bar__title,.van-nav-bar__text,.van-nav-bar .van-icon{
+    color: white !important;
+  }
 
 nav {
   padding: 30px;

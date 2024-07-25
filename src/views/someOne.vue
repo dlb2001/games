@@ -68,61 +68,13 @@
                       url:"https://cdn.hanyougame.cn/snwy_web_1.0.1/web-mobile/index.html",
                       id:1
                   },{
-                      text:"收纳达人",
-                      url:"https://webgame-6gzwg8ti52e46012-1310209978.tcloudbaseapp.com/109/1.0.0/web-mobile/index.html",
-                      id:2
-                  },{
-                      text:"小小收纳",
-                      url:"https://z10.tanyu.mobi/tanpaixyx/18002/web/1.0.170/index.html",
-                      id:3
-                  },{
-                      text:"收纳天才",
-                      url:"https://updatecdn.chutaonet.cn/collect/web_game/web-mobile/index.html",
-                      id:4
-                  },{
-                      text:"我的收纳摊",
-                      url:"https://z10.tanyu.mobi/tanpaixyx/16003/web/1.0.110/index.html",
-                      id:5
-                  },{
-                      text:"脑洞人爱收纳",
-                      url:"https://maoyumeng.cdn.xiaojing.work/chdl/cydmx/web/web-mobile1/index.html",
-                      id:6
-                  },{
-                      text:"喵星人爱收纳",
-                      url:"https://maoyumeng.cdn.xiaojing.work/chdl/mxrasn/remote/web/web-mobile/index.html",
+                      text:"隐秘的档案",
+                      url:"https://file-hidfile.kidikidi.net/secretfiles/h5/promote/after/web-mobile/index.html",
                       id:7
                   },{
                       text:"超级收纳馆",
                       url:"https://changshazhise01-1254961065.cos.ap-guangzhou.myqcloud.com/zhise/cjjyg/web/index.html",
                       id:8
-                  },{
-                      text:"第亿次收纳",
-                      url:"https://maoyumeng.club/dycsn/web/web-mobile/index.html",
-                      id:9
-                  },{
-                      text:"鸭鸭收纳大师",
-                      url:"https://www.rewanyouxi.com/games/snds/",
-                      id:10
-                  },{
-                      text:"收纳模拟器",
-                      url:"http://112.74.33.201:8080/cnmnq",
-                      id:11
-                  },{
-                      text:"沉浸解压馆",
-                      url:"https://cooperation.pailedi.com/web2/gameClean/web-mobile23/index.html",
-                      id:12
-                  },{
-                      text:"樱花校园收纳",
-                      url:"https://game.k54k.cn/gamefile/ttd68da03049b2f17c02/web-mobile/",
-                      id:13
-                  },{
-                      text:"鼠鼠收纳",
-                      url:"https://trident.icu/web-mobile/index.html",
-                      id:14
-                  },{
-                      text:"收纳人生",
-                      url:"https://www.lekonghd.cn/newsndrs/3.1.6/",
-                      id:15
                   }]
               },{
                   text:"烹饪游戏",
@@ -132,21 +84,9 @@
                       url:"https://qcdn.bdoggame.com/ttgame/lvxingcc/webVer/index.html",
                       id:1
                   },{
-                      text:"开了个西餐厅",
-                      url:"https://game.csquyou.com/mhxcd/",
-                      id:2
-                  },{
                       text:"夜市餐厅",
                       url:"https://game2.sfplay.net/nightMarket/v1",
                       id:3
-                  },{
-                      text:"武林大厨",
-                      url:"https://file.gugudang.com/res/down/public/p_myhotel/web-mobile/lts/index.html",
-                      id:4
-                  },{
-                      text:"喵喵小厨娘",
-                      url:"https://enjoygaga-1300513096.cos.ap-shanghai.myqcloud.com/game/cooking/index.html",
-                      id:5
                   }]
               }]
           }

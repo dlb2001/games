@@ -62,7 +62,7 @@
               activeName:"教程",
               items:[{
                   text:"收纳类型类型",
-                  badge:15,
+                  badge:3,
                   children:[{
                       text:"收纳物语",
                       url:"https://cdn.hanyougame.cn/snwy_web_1.0.1/web-mobile/index.html",
@@ -78,7 +78,7 @@
                   }]
               },{
                   text:"烹饪游戏",
-                  badge:5,
+                  badge:2,
                   children:[{
                       text:"旅行餐车",
                       url:"https://qcdn.bdoggame.com/ttgame/lvxingcc/webVer/index.html",
